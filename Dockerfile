@@ -1,1 +1,1 @@
-FROM docker.io/library/mysql:5.7.32
+FROM docker.io/library/mysql:5.7.33
